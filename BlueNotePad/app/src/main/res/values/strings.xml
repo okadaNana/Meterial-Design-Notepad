@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">蓝·笔记</string>
+    <string name="about">关于</string>
+    <string name="empty">这里空空如也，赶紧新建一条吧</string>
+    <string name="input_hint">今天，你有什么好玩的事呢？</string>
+    <string name="save">保存</string>
+    <string name="save_success">保存成功</string>
+    <string name="no_content_no_save">什么都不写就保存真的是男人？</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="author">作者：Owen</string>
+    <string name="github">Github:https://github.com/owenmike/</string>
+</resources>
